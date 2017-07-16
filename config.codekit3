@@ -15,6 +15,15 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/scripts\/arrayfunctions.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/scripts\/min\/arrayfunctions-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"\/scripts\/day2.js": {
 		"ft": 64,
 		"mi": 0,
@@ -24,11 +33,65 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"\/scripts\/day3july14projects.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/scripts\/min\/day3july14projects-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/scripts\/euler.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/scripts\/min\/euler-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"\/scripts\/main.js": {
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
 		"oAP": "\/scripts\/min\/main-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/scripts\/min\/arrayfindmax-min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/scripts\/min\/min\/arrayfindmax-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/scripts\/min\/arrayfunctions-min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/scripts\/min\/min\/arrayfunctions-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/scripts\/min\/day2-min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/scripts\/min\/min\/day2-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/scripts\/min\/day3july14projects-min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/scripts\/min\/min\/day3july14projects-min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -47,6 +110,15 @@
 		"mi": 0,
 		"oA": 0,
 		"oAP": "\/scripts\/min\/min\/numbergamefirst-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/scripts\/min\/primenumfinder-min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/scripts\/min\/min\/primenumfinder-min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -74,6 +146,15 @@
 		"mi": 0,
 		"oA": 0,
 		"oAP": "\/scripts\/min\/numbergamefirst-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/scripts\/primenumfinder.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/scripts\/min\/primenumfinder-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
