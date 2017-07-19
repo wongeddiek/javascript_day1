@@ -42,15 +42,6 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/scripts\/euler.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 0,
-		"oAP": "\/scripts\/min\/euler-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
 	"\/scripts\/main.js": {
 		"ft": 64,
 		"mi": 0,
@@ -92,6 +83,15 @@
 		"mi": 0,
 		"oA": 0,
 		"oAP": "\/scripts\/min\/min\/day3july14projects-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/scripts\/min\/euler-min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/scripts\/min\/min\/euler-min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -175,7 +175,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 521583068,
-	"displayValue": "js_day1",
+	"displayValue": "javascript_week1",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_green"
 	},
