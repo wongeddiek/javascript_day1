@@ -150,15 +150,6 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/scripts\/primenumfinder.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 0,
-		"oAP": "\/scripts\/min\/primenumfinder-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
 	"\/scripts\/randomnum.js": {
 		"ft": 64,
 		"mi": 0,
